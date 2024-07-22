@@ -1,6 +1,6 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GustoFirstInterview", "GustoFirstInterview\GustoFirstInterview.csproj", "{84C7944F-F445-4F22-9374-D6D2AEF3E4CB}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RandomInterview", "RandomInterview\RandomInterview.csproj", "{84C7944F-F445-4F22-9374-D6D2AEF3E4CB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
